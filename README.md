@@ -1,4 +1,4 @@
-# Colors (Barry Pack)
+# Colors (Barry bag)
 
 Color palette tools for generating, expanding, and scoring color palettes.
 
